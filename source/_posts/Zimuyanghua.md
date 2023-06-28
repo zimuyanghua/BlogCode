@@ -10,8 +10,8 @@ excerpt: 无一是你，无一不是你
 tags: [简介]
 #文章权重
 sticky: 100
-#开启评论系统
-comment: 'valine'
 ---
 
 # Welcome
+
+巴拉巴拉

@@ -1,9 +1,9 @@
 ---
 title: Hello World
 #文章在首页的封面图
-index_img: https://pic.imgdb.cn/item/649be7de1ddac507ccb9f15a.jpg
+index_img: /img/default.png
 #文章页顶部大图
-banner_img: https://pic.imgdb.cn/item/649be7de1ddac507ccb9f15a.jpg
+banner_img: /img/default.png
 #标签，多个标签用逗号隔开
 tags: [Hexo, Fluid]
 #隐藏文章

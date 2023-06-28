@@ -110,12 +110,33 @@ deploy:
   type: git
   repo: git@github.com:zimuyanghua/zimuyanghua.github.io.git
   branch: main
-
-post:
+  
 #评论
+post:
   comments:
     enable: true
     type: valine
+
+# Valine
+# 基于 LeanCloud
+# Based on LeanCloud
+# See: https://valine.js.org/
+valine:
+  appId: Vw08Ch58UR0v7sYf3ugJ1hED-gzGzoHsz
+  appKey: 1pIwUvovLycPrdLdyIMaPuDm
+  path: window.location.pathname
+  placeholder:
+  avatar: 'wavatar'
+  meta: ['nick', 'mail', 'link']
+  requiredFields: []
+  pageSize: 10
+  lang: 'zh-CN'
+  highlight: false
+  recordIP: false
+  serverURLs: ''
+  emojiCDN:
+  emojiMaps:
+  enableQQ: false
 
 index:
   #首页打字机文字
