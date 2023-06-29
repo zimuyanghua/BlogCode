@@ -12,7 +12,7 @@ timezone: ''
 
 #导航菜单
 navbar:
-  blog_title: Czy❤Yb
+  blog_title: CzyღYb
   menu:
     - { key: 'home', link: '/', icon: 'iconfont icon-home-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
@@ -148,6 +148,7 @@ index:
   #文章摘要开启
   auto_excerpt:
     enable: true
+  #文章首页权重排序开启
   post_sticky:
     enable: false
 
