@@ -12,7 +12,7 @@ timezone: ''
 
 #导航菜单
 navbar:
-  blog_title: CzyღYb
+  blog_title: czy ღ yb
   menu:
     - { key: 'home', link: '/', icon: 'iconfont icon-home-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
@@ -154,8 +154,16 @@ index:
 
 #页脚访问统计
 footer:
+  content: 'czy❤yb'
   statistics:
     enable: true
     source: "busuanzi"
     pv_format: "总访问量 {} 次"
     uv_format: "总访客数 {} 人"
+
+#音乐配置
+custom_js:
+  - //cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js  #/APlayer#/APlayer依赖
+  - //cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js  #/APlayer依赖
+custom_css:
+  - //cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css   #/APlayer依赖

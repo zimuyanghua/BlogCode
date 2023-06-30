@@ -12,6 +12,7 @@ tags: [简介]
 sticky: 100
 ---
 
-# Welcome
 
-巴拉巴拉
+
+
+{% meting "28029509" "netease" "song" "autoplay" "mutex:false" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
